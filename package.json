@@ -1,0 +1,22 @@
+{
+  "name": "spn.rs-server",
+  "version": "0.0.0",
+  "description": "Spn.rs server component",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asbjornenge/spn.rs-server.git"
+  },
+  "author": "Asbjorn Enge <asbjorn@hanafjedle.net>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/asbjornenge/spn.rs-server/issues"
+  },
+  "homepage": "https://github.com/asbjornenge/spn.rs-server",
+  "dependencies": {
+    "firebase": "^1.0.11"
+  }
+}
